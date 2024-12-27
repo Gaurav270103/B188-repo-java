@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Test {
 	public static void main(String[] args) {
+		System.out.println("github repo added successfully...");
 		ArithmeticOperation ao=new Calculator();
 		boolean flag=true;
 		//<--by using if-else statement-->
