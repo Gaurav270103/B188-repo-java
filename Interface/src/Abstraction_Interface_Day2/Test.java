@@ -18,6 +18,7 @@ public class Test {
 			Scanner sc=new Scanner(System.in);
 			System.out.println("Enter Your Choice");
 			int ch=sc.nextInt();
+			System.out.println("new changes");
 	
 		if (ch==1) {
 			ao.add();
